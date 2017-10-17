@@ -1,0 +1,57 @@
+
+.dropdown{
+    float:right;
+    padding-top: 8px;
+    position: relative;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    background-color: orange;
+    padding: .5em;
+    margin-top: 2px;
+    position: relative;
+}
+
+.googleMap{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.heading{
+    clear: right;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+}
+
+.navbar{
+    width: 220px;
+    height: 52px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: .5em;
+    position: relative;
+}
+
+.refreshbtn{
+    margin-bottom: 5px;
+}
+
+.searchgroup {
+    height: 40px;
+}
+
+.time{
+    width: 300px;
+    float: left;
+}
+
+.updatetime{
+    margin: 0 auto;
+    width: 420px;
+}
+.firstHeading{
+	background-color: blue;
+}

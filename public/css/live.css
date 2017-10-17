@@ -1,0 +1,56 @@
+
+.dropdown{
+    float:right;
+    padding-top: 10px;
+    position: relative;
+}
+
+.header{
+    margin: 0 auto;
+    height: 50px;
+}
+
+.title{
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+}
+.col-centered {
+    display: inline-block;
+    float: none;
+    margin-right: -4px;
+    text-align: left;
+}
+.row-centered {
+    text-align: center;
+}
+
+icon-map-info{
+	display:block;
+	width:45px;
+	height:25px;
+	float:left;
+	margin-right:10px;
+	border: 1px solid red;
+}
+
+.icon-map-info img{
+	width:45px;
+	height:25px;
+}
+
+.navigation{
+    width: 250px;
+    margin: 0 auto;
+    padding: .5em;
+    position: relative;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    background-color: orange;
+    padding: .5em;
+    margin-top: 1em;
+    position: relative;
+}
